@@ -5,7 +5,7 @@
     # 
     # (Completed)       Setup RobotFramework
     # (On Going)        figma-to-robotframework-seleniumlibrary plan 
-    # (Completed)   End to End Bussiness Process on Miro
+    # (Completed)       End to End Bussiness Process on Miro
     # (Not-Completed)   Test Scenario on Miro Find Figma ID
     # (Not-Completed)   Edit,Gethering Figma ID
     # (Not-Completed)   Code Robot "Version อนุบาล" on VSCode
