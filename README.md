@@ -5,7 +5,7 @@
     # 
     # (Completed)       Setup RobotFramework
     # (On Going)        figma-to-robotframework-seleniumlibrary plan 
-    # (Not-Completed)   End to End Bussiness Process on Miro
+    # (Completed)   End to End Bussiness Process on Miro
     # (Not-Completed)   Test Scenario on Miro Find Figma ID
     # (Not-Completed)   Edit,Gethering Figma ID
     # (Not-Completed)   Code Robot "Version อนุบาล" on VSCode
@@ -22,7 +22,7 @@ Miro links:https://miro.com/app/board/uXjVKcyxM6s=/
 | Tuesday 26 March 2567 | X |  |  |
 | Wednesday 27 March 2567| Setting RobotFramework | N/A | 60นาที |
 | Thursday 28 March 2567 | figma-to-robotframework-seleniumlibrary plan | N/A | 90นาที |
-| Friday 29 March 2567 | End to End Bussiness Process on Miro | 30 นาที | N/A |
+| Friday 29 March 2567 | End to End Bussiness Process on Miro | 30 นาที | 30 นาที |
 | Monday 1 April 2567 | Test Scenario on Miro Find Figma ID | 120 นาที| N/A |
 | Tuesday 2 April 2567| Edit,Gethering Figma ID | 60 นาที | N/A |
 | Wednesday 3 April 2567| Code Robot V.อนุบาล  | 120 นาที | N/A | 
