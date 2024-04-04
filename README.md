@@ -4,7 +4,7 @@
 # Source 
 Miro links : https://miro.com/app/board/uXjVKcyxM6s=/
 
-## Plan แผนที่ 1 ส่งมอบวันที่ 05/04/2023
+## Plan แผนที่ 1 ส่งมอบวันที่ 05/04/2023 (Not Complete)
 ##### ความเสี่ยงที่เกิด
 - เริ่มศึกษาการใช้งาน Robotframework & Seleniumlibrary
 
